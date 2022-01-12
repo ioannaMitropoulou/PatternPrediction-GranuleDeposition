@@ -3,7 +3,7 @@
 This package complements the publication:
 --- Cite publication ---
 
-This code implements the visual pattern prediction (paper section 2.4.1)
+The code presented here implements the following part of the paper: Section 2.4.1, Pattern prediction
 
 ![Visual predition of pattern 1](output/pattern_1_prediction.png)
 
