@@ -1,4 +1,4 @@
-# Beyond Transparency - Pattern prediction
+# Pattern prediction - Granule Deposition
 
 This package complements the publication:
 --- Cite publication ---
