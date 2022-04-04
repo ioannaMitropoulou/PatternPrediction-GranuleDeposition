@@ -1,8 +1,8 @@
 # Pattern prediction - Granule Deposition
 
-This package complements the publication:
+This package complements the publication
 
-Beyond Transparency: Architectural Application of Robotically Fabricated Polychromatic Float Glass (2022).
+*Beyond Transparency: Architectural Application of Robotically Fabricated Polychromatic Float Glass (2022).*
 
 The code presented here implements the following part of the paper: Section 2.4.1, Pattern prediction
 ![Visual predition of pattern 1](output/pattern_1_prediction.png)
